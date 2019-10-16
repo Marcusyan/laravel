@@ -1,7 +1,7 @@
 {
-    "name": "reliese/laravel",
+    "name": "marcusyan/laravel-models-from-tables",
     "description": "Reliese Components for Laravel Framework code generation.",
-    "keywords": ["reliese", "laravel"],
+    "keywords": ["marcusyan", "laravel"],
     "homepage": "http://cristianllanos.com",
     "support": {
         "issues": "https://github.com/reliese/laravel/issues",
