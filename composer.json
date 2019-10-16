@@ -21,7 +21,7 @@
         "illuminate/database": "*",
         "illuminate/contracts": "*",
         "illuminate/filesystem": "*",
-        "illuminate/console": "~*"
+        "illuminate/console": "*"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
